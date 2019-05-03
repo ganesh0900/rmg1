@@ -1,7 +1,7 @@
 EC2 INSTANCE CREATION::
 
 
-.YAML CODING::
+.YAML CODING::1.....2....3
 
 AWSTemplateFormatVersion: "2010-09-09"
 Description: A sample template
