@@ -11,7 +11,7 @@ Resources:
     Properties: 
       ImageId: "ami-0dad20bd1b9c8c004" #Another comment -- This is a Ubuntu 18.04 AMI
       InstanceType: t2.micro
-      KeyName: test22
+      KeyName: test33
       
 
 
